@@ -13,30 +13,7 @@
 
 <body class="p-4">
 
-  <div class="container">
-    <div class="fluid-container">
-    <h3>Login</h3>
-
-    <form class="" action="login.php" method="POST">
-
-      <div class="form-group">
-        <label>Email</label>
-        <input type="email" name="email">
-      </div>
-      <div class="form-group">
-        <label>Password</label>
-        <input type="password" name="password">
-      </div>
-      <div class="form-group">
-        <label>Repeat Password</label>
-        <input type="password" name="repeat_password">
-      </div>
-
-      <button type="submit" class="btn btn-primary" > Login </button>
-    </form>
-  </div>
-  </div>
-
+  
 </body>
 </html>
 <?php
